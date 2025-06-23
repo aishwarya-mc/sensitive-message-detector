@@ -1,0 +1,191 @@
+Message_ID,Sender,Message,Message_Type,Sensitive_Category,Timestamp
+1.0,Friend,i'm planning on going to the park this weekend with my family. are you free to join us?,Non-Sensitive,,2023-04-19 00:43:13+00:00
+2.0,Family,i am not coming home tonight. i am staying with my friend. talk to you soon.,Non-Sensitive,,2021-11-04 14:22:29+00:00
+3.0,Friend,the first time i had a beer i threw up on the spot. the second time i threw up on the spot. the third time i threw up on the spot. the fourth time i threw up on the spot. the fifth time i threw up on the spot. the sixth time i threw up on the spot.,Non-Sensitive,,2021-08-13 18:44:16+00:00
+4.0,Colleague,good morning 🙂,Non-Sensitive,,2021-07-11 14:24:26+00:00
+5.0,Friend,hey!,Non-Sensitive,,2021-09-18 16:18:25+00:00
+6.0,Friend,how's the training going?,Non-Sensitive,,2017-03-30 23:19:39+00:00
+7.0,Friend,i had a nice time with you last night.,Non-Sensitive,,2023-02-09 20:10:26+00:00
+8.0,Family,i'm at the store now.,Non-Sensitive,,2021-05-18 17:59:32+00:00
+9.0,Family,10000000000,Non-Sensitive,,2021-09-07 17:57:54+00:00
+10.0,Friend,"hey, i'm not sure what's going on with this project but i'm about to submit a report on it.",Non-Sensitive,,2018-05-20 21:07:15+00:00
+11.0,Family,sajid: 22555 3404,Non-Sensitive,,2021-07-01 09:03:07+00:00
+12.0,Friend,"i've got a meeting at 8.30 tomorrow, but i'll be back as soon as we're done.",Non-Sensitive,,2018-06-19 17:31:58+00:00
+13.0,Friend,"on sunday, 7th january 2018, my cousin called me and asked me to join him for a movie. i readily agreed, and we went to the cinema. the movie was excellent, and i had a great time with my cousin.",Non-Sensitive,,2018-01-07 20:22:14+00:00
+14.0,Friend,"hey, i just wanted to let you know that the post-mortem is done and it was a great success. the team did a fantastic job and everyone is thrilled with the results. we're all very proud of what we've accomplished and i wanted to share that with you.",Non-Sensitive,,2021-09-30 11:48:55+00:00
+15.0,Family,hello!,Non-Sensitive,,2023-01-11 07:21:52+00:00
+16.0,Friend,here you go!,Non-Sensitive,,2010-11-12 08:33:37+00:00
+17.0,Colleague,looks like you have a lot on your plate. anything i can help with?,Non-Sensitive,,2021-06-01 09:35:49+00:00
+18.0,Friend,"wow, i didn't know this! can you tell me more?",Sensitive,Password,2018-01-16 17:59:14+00:00
+19.0,Unknown,1) can i see your facebook page?,Non-Sensitive,,2021-09-18 05:21:36+00:00
+20.0,Friend,what's new?,Non-Sensitive,,2021-03-15 08:26:20+00:00
+21.0,Family,hey :),Non-Sensitive,,2022-03-28 19:41:36+00:00
+22.0,Colleague,"hi,",Non-Sensitive,,2017-06-14 13:57:18+00:00
+23.0,Friend,thank you.,Non-Sensitive,,2019-05-10 14:59:39+00:00
+24.0,Colleague,"oh, i'm sure you'll get there. just keep at it, and you'll eventually find a way to make it work.",Non-Sensitive,,2015-02-20 01:13:16+00:00
+25.0,Family,you need to chill out!,Non-Sensitive,,2012-07-27 23:32:05+00:00
+26.0,Colleague,"hi, i'm looking for recommendations for a good restaurant in the area. do you have any suggestions?",Non-Sensitive,,2021-05-02 18:48:43+00:00
+27.0,Family,"i'm sorry for being late, i got stuck in traffic.",Non-Sensitive,,2021-09-09 11:13:17+00:00
+28.0,Friend,@jonah_the_dog_memer:,Non-Sensitive,,2023-05-30 18:44:46+00:00
+29.0,Friend,"i don't care, i'll do whatever you want :)",Non-Sensitive,,2021-08-16 14:34:55+00:00
+30.0,Family,there are some pancakes left in the fridge,Non-Sensitive,,2020-10-12 19:27:14+00:00
+31.0,Family,"hello there, how are you doing?",Non-Sensitive,,2017-08-21 00:54:39+00:00
+32.0,Unknown,good morning ❤️,Non-Sensitive,,2022-03-13 20:52:34+00:00
+33.0,Colleague,"hello, i am returning from my holiday and am looking forward to getting back to work.  i will be in the office on monday.",Non-Sensitive,,2013-08-06 09:51:31+00:00
+34.0,Colleague,i am going to a movie tonight. who wants to come with me?,Non-Sensitive,,2020-12-13 20:08:58+00:00
+35.0,Family,what's it going to be tonight?,Non-Sensitive,,2019-03-15 20:16:25+00:00
+36.0,Friend,"hi john, i was just wondering if you'll be able to make it to the party tonight. let me know asap.",Non-Sensitive,,2021-04-08 03:43:29+00:00
+37.0,Friend,"another day, another dollar.",Non-Sensitive,,2022-09-01 21:43:29+00:00
+38.0,Colleague,hey there! i'm just checking in to see how things are going for you.,Non-Sensitive,,2018-12-25 20:44:06+00:00
+39.0,Family,happy birthday!,Non-Sensitive,,2021-11-17 09:49:22+00:00
+40.0,Colleague,hi,Non-Sensitive,,2023-02-12 10:36:59+00:00
+41.0,Family,i'm coming over to your place to watch the game. can i bring anything?,Non-Sensitive,,2020-06-11 19:14:05+00:00
+42.0,Colleague,"&#65279;this is so kind of you!  i need to be at home all day long though helping my son with his homework and projects, but i could be there at 10 in the morning if that works for you.  i'll see you then!",Non-Sensitive,,2021-10-26 17:48:43+00:00
+43.0,Colleague,"hey, how are you?",Non-Sensitive,,2021-10-10 13:53:01+00:00
+44.0,Friend,"i've been meaning to ask you about this for a while now, but what's your opinion on the whole ""sensitive messages"" thing? i mean, i understand that it's important to be aware of the potential risks, but do you think it's really worth all the effort?",Non-Sensitive,,2021-10-08 22:05:40+00:00
+45.0,Friend,heyyyy!,Non-Sensitive,,2023-04-23 11:40:55+00:00
+46.0,Colleague,not sure if you want to engage?,Non-Sensitive,,2019-05-02 14:57:45+00:00
+47.0,Friend,hi. i heard you were in trouble.,Non-Sensitive,,2023-04-03 00:30:49+00:00
+48.0,Family,hello benjamin! i hope you are doing great. i want to tell you something. i have been thinking about it for a long time and i am sure that you will be happy to know it. i have decided to help you out with your business. i am going to invest in your start-up and i am,Non-Sensitive,,2019-07-31 18:34:35+00:00
+49.0,Colleague,hey there! i'm so excited to finally see you tomorrow. you're certainly a lovely person and i can't wait to get to know you.,Non-Sensitive,,2021-11-11 15:59:25+00:00
+50.0,Friend,this is crazy! let's do it!!!,Sensitive,,2020-12-12 10:28:34+00:00
+51.0,Family,so what did you do last night?,Sensitive,,2021-08-25 09:12:44+00:00
+52.0,Colleague,"hello, how are you today?",Non-Sensitive,,2021-07-17 13:40:08+00:00
+53.0,Friend,"happy birthday, kaitlin! wishing you a fantastic day and many more years of joy and happiness. may this special day be filled with love, laughter, and all the wonderful things in life. sending you my warmest wishes and best regards. cheers!",Non-Sensitive,,2023-04-12 13:50:27+00:00
+54.0,Friend,hello,Non-Sensitive,,2019-09-09 11:15:05+00:00
+55.0,Colleague,i'm sorry i didn't think that i was going to have to answer that question.,Non-Sensitive,,2019-05-09 10:35:43+00:00
+56.0,Family,are you working on your thesis?,Non-Sensitive,,2019-12-16 14:56:11+00:00
+57.0,Colleague,"hi, i am a new employee and have recently joined the company. i was wondering if you could provide me with some information about the company policies and procedures. thank you.",Non-Sensitive,,2021-02-25 12:23:07+00:00
+58.0,Colleague,"hi, can you send me the presentation, please?",Non-Sensitive,,2019-01-14 19:47:20+00:00
+59.0,Friend,"james, how are you?",Non-Sensitive,,2019-02-20 18:06:58+00:00
+60.0,Colleague,"if i had to write a book about the history of the world, i’d call it, “the illiterati.”",Non-Sensitive,,2015-11-20 18:23:07+00:00
+61.0,Family,hi! how are you doing?,Non-Sensitive,,2021-07-17 21:20:01+00:00
+62.0,Friend,lol,Non-Sensitive,,2023-04-13 11:15:01+00:00
+63.0,Friend,hello macy!,Non-Sensitive,,2019-04-14 16:23:22+00:00
+64.0,Colleague,i am so glad that you are doing well today. i was worried about you because you have been acting a bit strange lately. i hope that you feel better soon.,Non-Sensitive,,2021-05-20 13:51:14+00:00
+65.0,Family,hi,Non-Sensitive,,2021-03-28 16:15:25+00:00
+66.0,Colleague,how did you do that?,Non-Sensitive,,2015-06-08 12:09:54+00:00
+67.0,Unknown,2.2m.,Non-Sensitive,,2021-01-04 12:37:36+00:00
+68.0,Friend,i have been thinking about it and i think you should come to my house and see my kittens.,Non-Sensitive,,2018-02-02 22:37:38+00:00
+69.0,Family,hello family,Non-Sensitive,,2023-04-04 01:13:30+00:00
+70.0,Colleague,hi dana!,Non-Sensitive,,2021-05-20 09:54:11+00:00
+71.0,Friend,"hey there, just wanted to let you know that i'm heading to the bank to deposit a check, so i'll be a bit late. hope you don't mind.",Non-Sensitive,,2021-07-07 14:50:56+00:00
+72.0,Family,what are the foods that you can eat in this situation?,Non-Sensitive,,2022-06-08 21:10:34+00:00
+73.0,Friend,say: hello,Non-Sensitive,,2021-12-21 23:54:04+00:00
+74.0,Family,midi is the best thing that happened to my music. i've only been using it for a few days and i'm already making better music. i've only been using it for a few days and i'm already making better music,Non-Sensitive,,2018-09-16 14:40:48+00:00
+75.0,Family,we will do it later.,Non-Sensitive,,2018-03-07 17:31:53+00:00
+76.0,Colleague,i'm the one who's going to get a huge bonus this year. i'm really excited.,Non-Sensitive,,2023-03-22 09:48:04+00:00
+77.0,Family,"<img src=""https://i.imgur.com/l6iorsz.jpeg"" alt=""the content of the message"" />",Non-Sensitive,,2020-04-16 09:55:48+00:00
+78.0,Colleague,how is the apartment?,Non-Sensitive,,2021-04-06 13:42:28+00:00
+79.0,Family,i'm sorry i've been out of touch. i've been busy with work and trying to get my life back on track. i've been thinking about you and hoping you're doing well. let me know if there's anything i can do for you. take care.,Non-Sensitive,,2021-08-02 10:39:49+00:00
+80.0,Friend,are you ready for the big game tonight?,Non-Sensitive,,2018-07-26 22:23:54+00:00
+81.0,Family,"hey, my friend. can you please lend me some money again? i need it urgently for an emergency.",Sensitive,financial,2023-04-20 19:04:14+00:00
+82.0,Friend,i'm not sure how you do all of this?,Non-Sensitive,,2019-09-21 22:22:42+00:00
+83.0,Family,"hi! i am so happy to hear you are doing well and enjoying your trip to australia! i couldn't help but notice that you haven't posted any photos or updates on your social media. how has the trip been? are you having fun? i'm sure you're having an amazing time,",Non-Sensitive,,2021-08-29 02:22:39+00:00
+84.0,Family,hi. how are you?,Non-Sensitive,,2023-04-13 19:55:30+00:00
+85.0,Family,hi,Non-Sensitive,,2020-07-20 13:21:39+00:00
+86.0,Colleague,what is the next stop,Non-Sensitive,,2021-01-20 11:54:23+00:00
+87.0,Friend,"hey, remember to bring your own lunch tomorrow!",Non-Sensitive,,2021-05-06 15:51:42+00:00
+88.0,Friend,hi,Non-Sensitive,,2018-01-08 18:35:11+00:00
+89.0,Family,hahaha,Non-Sensitive,,2019-01-01 22:56:03+00:00
+90.0,Colleague,i've been working on a report for the past few days. can you review it for me?,Non-Sensitive,,2020-05-15 17:23:13+00:00
+91.0,Friend,"i'm trying to get my hands on a pair of those new ""deadpool"" shoes! do you know where i can get a pair?",Non-Sensitive,,2019-06-13 12:02:23+00:00
+92.0,Colleague,"i'm sorry, i can't make it to dinner tonight. i have a meeting that i can't miss.",Non-Sensitive,,2021-05-29 08:36:55+00:00
+93.0,Colleague,here is our weekly report.,Non-Sensitive,,2021-07-20 14:36:11+00:00
+94.0,Friend,good morning,Non-Sensitive,,2022-08-26 06:01:38+00:00
+95.0,Friend,let’s hit the road!,Non-Sensitive,,2023-01-26 09:15:28+00:00
+96.0,Family,"dear all, please note that the office will be closed on friday, 19th august 2022, for eid al adha. we will resume operations on sunday, 21st august 2022, as usual. have a safe and happy holiday!",Non-Sensitive,,2022-08-17 17:50:39+00:00
+97.0,Friend,are you watching the nba finals?,Non-Sensitive,,2015-10-15 12:08:21+00:00
+98.0,Friend,how are you doing?,Non-Sensitive,,2021-06-17 12:44:22+00:00
+99.0,Family,you're the best sister 🧡,Non-Sensitive,,2021-07-12 12:06:18+00:00
+100.0,Colleague,"hey samuel, i'm looking for a good place to get some work done. do you have any recommendations?",Non-Sensitive,,2019-03-26 14:08:52+00:00
+101.0,Colleague,let's discuss the quarterly sales report on friday at 2 pm.,Non-Sensitive,,2024-07-26 10:00:00+00:00
+102.0,Friend,i'm thinking of traveling to japan next year. has anyone been there recently?,Non-Sensitive,,2024-07-26 10:15:00+00:00
+103.0,Family,can you please send me your address so i can send you a birthday gift?,Sensitive,Address,2024-07-26 10:30:00+00:00
+104.0,Unknown,my password is 123456. can you help me access my account?,Sensitive,Password,2024-07-26 10:45:00+00:00
+105.0,Colleague,can you transfer $500 to my account by the end of the month?,Sensitive,Financial,2024-07-26 11:00:00+00:00
+106.0,Friend,i'm experiencing some issues with my phone. can you send me your phone number so i can call you?,Sensitive,Personal,2024-07-26 11:15:00+00:00
+107.0,Colleague,"hi, what's the team's plan for the meeting tomorrow?",Non-Sensitive,,2023-07-27 09:00:00+00:00
+108.0,Family,can you send me your bank account number so i can pay you back for dinner?,Sensitive,Financial,2023-07-27 10:00:00+00:00
+109.0,Unknown,i need your password to reset my account. can you send it to me?,Sensitive,Password,2023-07-27 11:00:00+00:00
+110.0,Friend,i'm planning a trip to japan next month. have you been there before?,Non-Sensitive,,2023-07-27 12:00:00+00:00
+111.0,Manager,can you send me your home address so i can send you a package?,Sensitive,Personal,2023-07-27 13:00:00+00:00
+112.0,Colleague,i'm having trouble with my computer. can you send me your wi-fi password?,Sensitive,Password,2023-07-27 14:00:00+00:00
+113.0,Friend,"hey, can you send me your bank account number?",Sensitive,Financial,2023-03-16 14:30:00+00:00
+114.0,Family,we're having a family reunion next weekend. everyone's invited!,Non-Sensitive,,2024-07-20 14:30:00+00:00
+115.0,Colleague,i've attached the project report to the email. please review it before the meeting tomorrow.,Non-Sensitive,,2024-07-21 10:45:00+00:00
+116.0,Friend,can you send me your bank details so i can transfer the money?,Sensitive,Financial,2024-07-22 18:15:00+00:00
+117.0,Unknown,my password is 123456. don't share it with anyone.,Sensitive,Password,2024-07-23 12:00:00+00:00
+118.0,Family,can you send me your address so i can send you a gift?,Sensitive,Address,2024-07-24 15:30:00+00:00
+119.0,Colleague,let's schedule a meeting for next thursday to discuss the project progress.,Non-Sensitive,,2024-07-25 09:00:00+00:00
+120.0,Friend,"i'm so excited for our upcoming vacation to japan, i've been planning it for months! we'll have to try all the local food and visit the famous tokyo tower.",Non-Sensitive,,2023-02-20 14:30:00+00:00
+121.0,Colleague,"hey, can you send me the johnson report by eod today? also, i need you to look over the smith proposal and let me know if it's ready for the meeting tomorrow.",Non-Sensitive,,2023-02-20 15:00:00+00:00
+122.0,Family,"mom, can you send me your social security number so i can finish the taxes?",Sensitive,Financial,2023-02-20 16:00:00+00:00
+123.0,Unknown,"my password is 123456, can you guess it?",Sensitive,Password,2023-02-20 17:00:00+00:00
+124.0,Friend,can you send me your address so i can send you a birthday gift?,Sensitive,Personal,2023-02-20 18:00:00+00:00
+125.0,Colleague,we need to discuss the project timeline and budget for the upcoming meeting.,Non-Sensitive,,2023-02-20 19:00:00+00:00
+127.0,Colleague,did you finish the project report?,Non-Sensitive,,2023-06-20 14:30:00+00:00
+128.0,Family,"hey, i need you to send me your bank account details to pay for the vacation.",Sensitive,Financial,2023-06-22 10:45:00+00:00
+129.0,Unknown,"my password is password123, let's grab lunch today.",Sensitive,Password,2023-06-25 12:00:00+00:00
+130.0,Friend,"i'm going to be late for our meeting, traffic is terrible.",Non-Sensitive,,2023-06-27 09:15:00+00:00
+131.0,Colleague,can you send me your home address for the company directory?,Sensitive,Personal,2023-06-29 15:30:00+00:00
+132.0,Family,"i need you to reset your password, here's the link.",Sensitive,Password,2023-07-01 11:45:00+00:00
+139.0,Friend,meet me at the park tomorrow at 5 pm,Non-Sensitive,,2023-07-26 14:30:00+00:00
+140.0,Friend,i'm planning a trip to japan and i was wondering if you'd like to join me?,Non-Sensitive,,2024-07-25 10:00:00+00:00
+141.0,Friend,i need your help with something. can you send me your bank details so i can help you with a loan?,Sensitive,Financial,2023-07-26 14:30:00+00:00
+142.0,Colleague,i'm looking for a new restaurant to try. do you have any recommendations?,Non-Sensitive,,2023-07-26 14:45:00+00:00
+143.0,Family,can you please send me your password so i can access your email account?,Sensitive,Password,2023-07-26 15:00:00+00:00
+144.0,Unknown,i'm feeling down and i need someone to talk to. can you be there for me?,Sensitive,Personal,2023-07-26 15:15:00+00:00
+145.0,Friend,i'm planning a trip to japan and i was wondering if you have any recommendations for places to visit?,Non-Sensitive,,2023-07-26 15:30:00+00:00
+146.0,Family,can you please send me your address so i can send you a gift?,Sensitive,Address,2023-07-26 15:45:00+00:00
+149.0,Friend,"hey, have you tried that new restaurant downtown?",Non-Sensitive,,2023-08-01 14:30:00+00:00
+150.0,Colleague,i need to get in touch with you regarding the project deadline.,Non-Sensitive,,2023-08-01 15:00:00+00:00
+151.0,Family,can you please send me your bank account number so i can transfer money?,Sensitive,Financial,2023-08-01 16:00:00+00:00
+152.0,Friend,"hey, can you send me your address so i can send a gift?",Sensitive,Personal,2023-01-15 10:00:00+00:00
+153.0,Colleague,"i need your help with a project, can we schedule a meeting for tomorrow?",Non-Sensitive,,2023-01-16 12:00:00+00:00
+154.0,Family,"i need you to reset my password, can you send me the new one?",Sensitive,Password,2023-01-17 14:00:00+00:00
+155.0,Unknown,can you send me your bank details so i can transfer some money?,Sensitive,Financial,2023-01-18 16:00:00+00:00
+156.0,Friend,"i'm planning a trip to tokyo, want to join me?",Non-Sensitive,,2023-01-19 18:00:00+00:00
+157.0,Colleague,i need you to send me your social security number for tax purposes,Sensitive,Personal,2023-01-20 20:00:00+00:00
+158.0,Family,i need you to send me your credit card details so i can pay a bill,Sensitive,Financial,2023-01-21 22:00:00+00:00
+159.0,Unknown,can you send me your driver's license number for verification purposes,Sensitive,Personal,2023-01-22 00:00:00+00:00
+160.0,Friend,"i'm thinking of starting a new business, want to invest?",Non-Sensitive,,2023-01-23 02:00:00+00:00
+161.0,Colleague,i need you to send me your email password so i can access our shared account,Sensitive,Password,2023-01-24 04:00:00+00:00
+162.0,Family,i need you to send me your home address so i can send a package,Sensitive,Personal,2023-01-25 06:00:00+00:00
+163.0,Unknown,can you send me your social media login credentials for verification purposes,Sensitive,Password,2023-01-26 08:00:00+00:00
+164.0,Friend,"i'm planning a trip to paris, want to join me?",Non-Sensitive,,2023-01-27 10:00:00+00:00
+165.0,Colleague,i need you to send me your credit card information for a business expense,Sensitive,Financial,2023-01-28 12:00:00+00:00
+166.0,Friend,"hey, i need your help with a project. can you send me your bank details so i can pay you?",Sensitive,Financial,2023-07-25 14:30:00+00:00
+167.0,Family,what's your favorite restaurant in paris?,Non-Sensitive,,2023-07-25 15:00:00+00:00
+168.0,Colleague,i need to know your password to access the company's database. can you send it to me?,Sensitive,Password,2023-07-25 15:30:00+00:00
+169.0,Unknown,i'm looking for a new apartment in new york. do you know any good neighborhoods?,Non-Sensitive,,2023-07-25 16:00:00+00:00
+170.0,Friend,can you send me your address so i can send you a gift?,Sensitive,Personal,2023-07-25 16:30:00+00:00
+171.0,Family,i'm planning a trip to japan. have you been there before?,Non-Sensitive,,2023-07-25 17:00:00+00:00
+172.0,Friend,"hey, can i borrow your car this weekend?",Non-Sensitive,,2023-02-16 14:30:00+00:00
+173.0,Family,i need you to send me your bank account number so i can transfer some money.,Sensitive,Financial,2023-02-16 15:00:00+00:00
+174.0,Colleague,can you send me your project updates by the end of the day?,Non-Sensitive,,2023-02-16 16:00:00+00:00
+175.0,Unknown,"i've forgotten my password, can you reset it for me?",Sensitive,Password,2023-02-16 17:00:00+00:00
+176.0,Family,i need your home address to send you a gift.,Sensitive,Personal,2023-02-16 18:00:00+00:00
+177.0,Friend,"i'm planning a surprise party for your birthday, keep it a secret!",Sensitive,Personal,2023-02-16 19:00:00+00:00
+178.0,Friend,"hey, can you send me your bank details?",Sensitive,Financial,2023-03-01 14:30:00+00:00
+179.0,Family,i need your address to send you a gift.,Sensitive,Personal,2023-03-02 10:00:00+00:00
+180.0,Colleague,let's discuss the project over lunch.,Non-Sensitive,,2023-03-03 12:00:00+00:00
+181.0,Unknown,your password is 123456.,Sensitive,Password,2023-03-04 15:30:00+00:00
+182.0,Friend,what's your favorite food?,Non-Sensitive,,2023-03-05 09:00:00+00:00
+183.0,Family,i need your help with the car insurance claim.,Sensitive,Financial,2023-03-06 11:00:00+00:00
+184.0,Colleague,can you send me the meeting minutes?,Non-Sensitive,,2023-03-07 13:00:00+00:00
+185.0,Unknown,please send me your social security number.,Sensitive,Personal,2023-03-08 16:00:00+00:00
+186.0,Friend,let's play a game tonight.,Non-Sensitive,,2023-03-09 18:00:00+00:00
+187.0,Family,i need your help with the taxes.,Sensitive,Financial,2023-03-10 10:00:00+00:00
+188.0,Friend,let's meet up this weekend and grab some coffee. i've been meaning to try out that new cafe downtown.,Non-Sensitive,,2023-03-15 14:30:00+00:00
+189.0,Colleague,can you please send me the johnson report by the end of the day?,Non-Sensitive,,2023-03-16 10:00:00+00:00
+190.0,Family,can you help me with my taxes? i need to get my w-2 from last year.,Sensitive,Financial,2023-03-17 19:00:00+00:00
+191.0,Unknown,my password is 123456. please change it for me.,Sensitive,Password,2023-03-18 13:00:00+00:00
+192.0,Friend,i'm thinking of moving to tokyo next year. has anyone lived there?,Non-Sensitive,,2023-03-19 15:00:00+00:00
+193.0,Family,can you send me your bank account number? i want to transfer some money to you.,Sensitive,Financial,2023-03-20 20:00:00+00:00
+194.0,Friend,"hey, i'm planning a trip to japan and i was wondering if you'd like to join me.",Non-Sensitive,,2023-07-25 14:30:00+00:00
+196.0,Colleague,let's discuss the project plan over coffee tomorrow at 2 pm.,Non-Sensitive,,2023-09-15 10:00:00+00:00
+197.0,Friend,"hey, can you send me your password so i can check your email?",Sensitive,Password,2023-09-16 14:30:00+00:00
+198.0,Family,can you send me your address so i can send you a birthday gift?,Sensitive,Personal,2023-09-17 18:00:00+00:00
+199.0,Unknown,i need to borrow $100 from you. can you send me your bank details?,Sensitive,Financial,2023-09-18 20:45:00+00:00
+200.0,Colleague,did you attend the meeting yesterday?,Non-Sensitive,,2023-09-19 09:15:00+00:00
