@@ -1,7 +1,5 @@
 # sensitive-message-detector
 
-# Sensitive Message Detector
-
 A smart web app that detects **sensitive content** in chat messages using machine learning.
 
 ---
