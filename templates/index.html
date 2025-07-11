@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sensitive Message Detector</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-box user-chat">
+            <h2>User's Chat</h2>
+            <div id="user-chat-box"></div>
+            <p>Sensitivity Alert: <span id="alert-text" style="color: red;"></span></p>
+        </div>
+
+        <div class="role-selection">
+            <label for="role">Select Role:</label>
+            <select id="role" onchange="createSenderChat()">
+                <option value="friend">Friend</option>
+                <option value="colleague">Colleague</option>
+                <option value="family">Family</option>
+                <option value="custom">Custom</option>
+            </select>
+        </div>
+
+        <div class="chat-box sender-chat" id="sender-chat-box-container" style="display:none;">
+            <h2>Sender's Chat</h2>
+            <div id="sender-chat-box"></div>
+            <input type="text" id="sender-message" placeholder="Type sender's message..." />
+            <button onclick="sendSenderMessage()">Send</button>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+</body>
+</html>
