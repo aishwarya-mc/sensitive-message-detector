@@ -1,0 +1,46 @@
+Message_ID,Sender,Message,Message_Type,Timestamp
+1,Friend,Can you send me your bank account details?,Sensitive,2024-10-17 00:10:49.441305
+2,Colleague,Please share the project files by tonight.,Non-Sensitive,2024-10-17 00:10:49.447622
+3,Friend,Can you send me your bank account details?,Sensitive,2024-10-17 00:12:53.739801
+4,Colleague,Please share the project files by tonight.,Non-Sensitive,2024-10-17 00:12:53.743806
+5,Friend,Can you send me your bank account details?,Sensitive,2024-10-17 00:17:00.718838
+6,Colleague,Please share the project files by tonight.,Non-Sensitive,2024-10-17 00:17:00.723674
+7,Unknown,hey i love your cat can i take a picture of it?,Non-Sensitive,2024-10-17 00:17:00.725249
+8,Friend,Can you send me your bank account details?,Sensitive,2024-10-17 00:18:05.767308
+9,Colleague,Please share the project files by tonight.,Non-Sensitive,2024-10-17 00:18:05.772898
+10,Unknown,hey i love your cat can i take a picture of it?,Non-Sensitive,2024-10-17 00:18:05.774411
+11,unknown,"whats up with password protection and stuff i think its useless, what do you think? ",Non-Sensitive,2024-10-17 00:18:05.776409
+12,Friend,Can you send me your bank account details?,Sensitive,2024-10-17 00:19:58.917777
+13,Colleague,Please share the project files by tonight.,Non-Sensitive,2024-10-17 00:19:58.924551
+14,Unknown,hey i love your cat can i take a picture of it?,Non-Sensitive,2024-10-17 00:19:58.925567
+15,unknown,"whats up with password protection and stuff i think its useless, what do you think? ",Non-Sensitive,2024-10-17 00:19:58.925567
+16,unknown,i forgot what my password was. i guess it started with a T,Non-Sensitive,2024-10-17 00:19:58.933653
+17,Friend,Can you send me your bank account details?,Sensitive,2024-10-17 00:20:31.011902
+18,Colleague,Please share the project files by tonight.,Non-Sensitive,2024-10-17 00:20:31.017608
+19,Unknown,hey i love your cat can i take a picture of it?,Non-Sensitive,2024-10-17 00:20:31.021685
+20,unknown,"whats up with password protection and stuff i think its useless, what do you think? ",Non-Sensitive,2024-10-17 00:20:31.026053
+21,unknown,i forgot what my password was. i guess it started with a T,Non-Sensitive,2024-10-17 00:20:31.028622
+22,unknown,i forgot what my password was. i guess it started with a T. can you tell me your password instead?,Sensitive,2024-10-17 00:20:31.033329
+23,Friend,Can you send me your bank account details?,Sensitive,2024-10-17 00:52:17.882519
+24,Colleague,Please share the project files by tonight.,Non-Sensitive,2024-10-17 00:52:17.888073
+25,Unknown,hey i love your cat can i take a picture of it?,Non-Sensitive,2024-10-17 00:52:17.891461
+26,unknown,"whats up with password protection and stuff i think its useless, what do you think? ",Non-Sensitive,2024-10-17 00:52:17.894828
+27,unknown,i forgot what my password was. i guess it started with a T,Non-Sensitive,2024-10-17 00:52:17.897204
+28,unknown,i forgot what my password was. i guess it started with a T. can you tell me your password instead?,Sensitive,2024-10-17 00:52:17.900642
+29,Friend,Can you send me your bank account details?,Sensitive,2024-10-17 00:53:31.365536
+30,Colleague,Please share the project files by tonight.,Non-Sensitive,2024-10-17 00:53:31.365536
+31,Unknown,hey i love your cat can i take a picture of it?,Non-Sensitive,2024-10-17 00:53:31.365536
+32,unknown,"whats up with password protection and stuff i think its useless, what do you think? ",Non-Sensitive,2024-10-17 00:53:31.382355
+33,unknown,i forgot what my password was. i guess it started with a T,Non-Sensitive,2024-10-17 00:53:31.382355
+34,unknown,i forgot what my password was. i guess it started with a T. can you tell me your password instead?,Sensitive,2024-10-17 00:53:31.382355
+35,unknown,my password starts with  T but i dont know it fully,Non-Sensitive,2024-10-17 00:53:31.389618
+36,Friend,Can you send me your bank account details?,Sensitive,2024-10-17 12:09:49.068143
+37,Colleague,Please share the project files by tonight.,Non-Sensitive,2024-10-17 12:09:49.068143
+38,Unknown,hey i love your cat can i take a picture of it?,Non-Sensitive,2024-10-17 12:09:49.068143
+39,unknown,"whats up with password protection and stuff i think its useless, what do you think? ",Non-Sensitive,2024-10-17 12:09:49.068143
+40,unknown,i forgot what my password was. i guess it started with a T,Non-Sensitive,2024-10-17 12:09:49.078984
+41,unknown,i forgot what my password was. i guess it started with a T. can you tell me your password instead?,Sensitive,2024-10-17 12:09:49.081737
+42,unknown,my password starts with  T but i dont know it fully,Non-Sensitive,2024-10-17 12:09:49.084100
+43,Friend,Can you send me your bank account details?,Sensitive,2024-10-17 12:25:51.058173
+44,Colleague,Please share the project files by tonight.,Non-Sensitive,2024-10-17 12:25:51.062179
+45,Unknown,hey i love your cat can i take a picture of it?,Non-Sensitive,2024-10-17 12:25:51.064181
